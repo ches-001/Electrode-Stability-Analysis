@@ -14,4 +14,4 @@ that the electrode is subjected to</p>
 </ul>
 <br>
 <h3>Install Requirement Files</h3>
-clone the repository or download the 'requirement.txt' files, then open terminal in the working directory and  type <h5>'pip install -r requirements.txt'<h5> to install all the requirements for this project.
+clone the repository and download the 'requirement.txt' files, then open terminal in the working directory and  type <h5>'pip install -r requirements.txt'<h5> to install all the requirements for this project.
