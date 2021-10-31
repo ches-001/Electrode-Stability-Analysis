@@ -13,5 +13,5 @@ that the electrode is subjected to</p>
     <li>Pytorch Deep Learning Framework</li>
 </ul>
 <br>
-<h3>Install Requirement Files</h3>
+<h3>Setup</h3>
 clone the repository and download the 'requirement.txt' files, then open terminal in the working directory and  type <h5>'pip install -r requirements.txt'<h5> to install all the requirements for this project.
